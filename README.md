@@ -1,2 +1,3 @@
-# sarah-lyell.github.io
-My website
+# Posts
+
+## [Space-Filling Curves for Data Visualization](space-filling.html)
